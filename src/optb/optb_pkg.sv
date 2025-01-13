@@ -23,7 +23,7 @@
 //  Code                        Information
 //  x0git                       virtual.q@outlook.com
 // Copyright Information:
-// Copyright 2025 L.X.
+// Copyright 2025 X0.GIT
 // Additional Comments:
 // 1. [Freedom] License: BSD-3-Clause                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
 //////////////////////////////////////////////////////////////////////////////////
