@@ -98,7 +98,7 @@ typedef optb_drv_base #(.SEED_TYPE(SEED_TYPE)) DRIVER_TYPE;
 typedef optb_mon_base #(.MON_BUS_TYPE(IMON_BUS_TYPE)) IMONITOR_TYPE;
 typedef optb_mon_base #(.MON_BUS_TYPE(OMON_BUS_TYPE)) OMONITOR_TYPE;
 typedef optb_mdl_base #(.IMON_BUS_TYPE(IMON_BUS_TYPE),
-                      .OMON_BUS_TYPE(OMON_BUS_TYPE)) REFMODEL_TYPE;
+                        .OMON_BUS_TYPE(OMON_BUS_TYPE)) REFMODEL_TYPE;
 typedef optb_scb_base #(.MON_BUS_TYPE(OMON_BUS_TYPE)) SCOREBOARD_TYPE;
 
 typedef uvm_optb_testcase #(.TEST_CASE_TYPE(TEST_CASE_TYPE),
